@@ -1,0 +1,161 @@
+,Standard Visual,Enhanced Visual,Group,Factorial Group,No Sound Allocation,Sound Allocation,Matched Group,Exp,Matched Allocation,Standard Playtime,Enhanced Playtime,Group 1: Sound,Group 2: Sound,Group 1: No Sound,Group 2: No Sound,Factorial Playtime,No Winning Sound,F_Standard Visual,F_Enhanced Visual,Winning Sound,All Sound Playtime,Sound Playtime,No Sound Playtime,Pairs Playtime,Education Level,Age,Weather,Previous Avg Playtime,Years Gambling,Time,Employed
+0,YES,NO,1,4,NO,YES,4,Low,Standard,1210.0,,3000.0,,1190.0,,6000.0,False,False,True,True,180010.0,180000.0,,1200.0,High School,41,Not Sunny,66,6,Evening,Unemployed
+1,NO,YES,2,4,YES,NO,3,High,Standard,,3000.0,,2990.0,,1200.0,6000.0,False,False,True,True,180010.0,,72010.0,1200.0,University,22,Sunny,48,3,Afternoon,Employed
+2,NO,YES,1,2,YES,NO,1,High,Standard,,3000.0,3000.0,,1210.0,,3010.0,True,False,True,False,180000.0,,72000.0,1190.0,College,69,Not Sunny,118,5,Afternoon,Unemployed
+3,NO,YES,2,1,YES,NO,3,High,Standard,,3020.0,,3010.0,,1190.0,1200.0,True,True,False,False,179990.0,,72000.0,1200.0,College,51,Not Sunny,190,7,Evening,Unemployed
+4,YES,NO,2,2,NO,YES,4,Low,Standard,1190.0,,,3000.0,,1190.0,3000.0,True,False,True,False,180010.0,180000.0,,1200.0,Not Graduated,23,Not Sunny,51,5,Morning,Unemployed
+5,YES,NO,1,3,NO,YES,4,Low,Standard,1200.0,,3000.0,,1200.0,,3000.0,False,True,False,True,179990.0,180000.0,,1190.0,Not Graduated,39,Not Sunny,195,5,Afternoon,Unemployed
+6,YES,NO,2,3,YES,NO,1,High,Standard,1210.0,,,3000.0,,1210.0,3000.0,False,True,False,True,180000.0,,72000.0,1200.0,Not Graduated,28,Not Sunny,176,5,Evening,Unemployed
+7,NO,YES,2,2,NO,YES,1,High,Standard,,3000.0,,2990.0,,1210.0,3000.0,True,False,True,False,180000.0,180000.0,,1190.0,University,65,Sunny,151,10,Night,Employed
+8,NO,YES,1,1,YES,NO,1,High,Standard,,3010.0,3000.0,,1210.0,,1200.0,True,True,False,False,180000.0,,72000.0,1200.0,College,33,Sunny,131,10,Evening,Employed
+9,NO,YES,1,4,NO,YES,3,High,Standard,,3000.0,3000.0,,1190.0,,6000.0,False,False,True,True,180000.0,180000.0,,1200.0,College,50,Not Sunny,142,3,Evening,Unemployed
+10,YES,NO,1,4,NO,YES,4,Low,Standard,1200.0,,3010.0,,1200.0,,6000.0,False,False,True,True,180000.0,179990.0,,1190.0,Not Graduated,26,Not Sunny,172,1,Morning,Unemployed
+11,NO,YES,1,3,NO,YES,1,High,Standard,,3000.0,3000.0,,1200.0,,3000.0,False,True,False,True,180000.0,179990.0,,1210.0,University,23,Not Sunny,84,5,Afternoon,Unemployed
+12,NO,YES,1,1,NO,YES,3,High,Standard,,3000.0,3000.0,,1200.0,,1200.0,True,True,False,False,180010.0,180000.0,,1200.0,University,33,Not Sunny,155,14,Evening,Unemployed
+13,YES,NO,2,2,NO,YES,4,Low,Standard,1200.0,,,2990.0,,1200.0,3010.0,True,False,True,False,180000.0,179990.0,,1200.0,Not Graduated,46,Not Sunny,85,9,Morning,Unemployed
+14,YES,NO,1,1,YES,NO,3,High,Standard,1200.0,,3010.0,,1200.0,,1200.0,True,True,False,False,180000.0,,72000.0,1200.0,Not Graduated,20,Not Sunny,18,14,Afternoon,Unemployed
+15,YES,NO,1,4,NO,YES,3,High,Standard,1200.0,,3000.0,,1200.0,,6000.0,False,False,True,True,180000.0,179990.0,,1210.0,Not Graduated,37,Not Sunny,83,1,Afternoon,Unemployed
+16,YES,NO,2,1,YES,NO,3,High,Standard,1190.0,,,3000.0,,1200.0,1190.0,True,True,False,False,180010.0,,72000.0,1190.0,High School,53,Not Sunny,195,3,Morning,Unemployed
+17,NO,YES,1,3,NO,YES,3,High,Standard,,3000.0,2990.0,,1190.0,,3010.0,False,True,False,True,179990.0,180000.0,,1200.0,College,36,Not Sunny,154,13,Afternoon,Unemployed
+18,YES,NO,2,2,NO,YES,2,Low,Standard,1200.0,,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,180010.0,,1200.0,High School,43,Not Sunny,16,13,Morning,Unemployed
+19,YES,NO,1,3,NO,YES,3,High,Standard,1190.0,,2990.0,,1200.0,,2990.0,False,True,False,True,180000.0,180000.0,,1200.0,High School,20,Not Sunny,183,4,Afternoon,Unemployed
+20,NO,YES,1,3,YES,NO,3,High,Standard,,3000.0,2990.0,,1200.0,,3000.0,False,True,False,True,180000.0,,72010.0,1200.0,College,36,Sunny,150,14,Morning,Employed
+21,YES,NO,2,4,NO,YES,4,Low,Standard,1200.0,,,2990.0,,1220.0,6010.0,False,False,True,True,180010.0,180000.0,,1200.0,Not Graduated,37,Sunny,177,1,Night,Employed
+22,YES,NO,2,1,NO,YES,3,High,Standard,1200.0,,,2990.0,,1210.0,1200.0,True,True,False,False,180000.0,180000.0,,1200.0,High School,49,Sunny,179,1,Evening,Employed
+23,YES,NO,2,1,NO,YES,4,Low,Standard,1210.0,,,3000.0,,1200.0,1200.0,True,True,False,False,180000.0,180000.0,,1200.0,High School,24,Not Sunny,146,8,Evening,Unemployed
+24,YES,NO,2,1,YES,NO,1,High,Standard,1200.0,,,3010.0,,1200.0,1200.0,True,True,False,False,180000.0,,71990.0,1190.0,High School,69,Sunny,187,2,Night,Employed
+25,NO,YES,2,4,YES,NO,2,Low,Standard,,3000.0,,3000.0,,1190.0,6000.0,False,False,True,True,180000.0,,71990.0,1190.0,University,58,Sunny,36,12,Afternoon,Employed
+26,YES,NO,1,4,YES,NO,1,High,Standard,1200.0,,3000.0,,1200.0,,6000.0,False,False,True,True,179990.0,,72010.0,1200.0,Not Graduated,50,Not Sunny,131,8,Morning,Unemployed
+27,NO,YES,1,3,YES,NO,1,High,Standard,,3000.0,3000.0,,1200.0,,3000.0,False,True,False,True,179990.0,,72000.0,1200.0,College,57,Sunny,14,7,Evening,Employed
+28,NO,YES,2,3,NO,YES,3,High,Standard,,3000.0,,2990.0,,1200.0,3010.0,False,True,False,True,180010.0,180000.0,,1190.0,College,56,Not Sunny,38,10,Evening,Unemployed
+29,YES,NO,2,3,YES,NO,4,Low,Standard,1200.0,,,3000.0,,1200.0,2990.0,False,True,False,True,180000.0,,72000.0,1190.0,Not Graduated,35,Sunny,174,10,Evening,Employed
+30,NO,YES,2,1,NO,YES,1,High,Standard,,3010.0,,3000.0,,1190.0,1200.0,True,True,False,False,180000.0,180000.0,,1200.0,College,57,Sunny,175,2,Afternoon,Employed
+31,YES,NO,1,4,YES,NO,2,Low,Standard,1190.0,,3010.0,,1190.0,,6000.0,False,False,True,True,179990.0,,72010.0,1210.0,Not Graduated,18,Not Sunny,92,6,Morning,Unemployed
+32,YES,NO,1,2,YES,NO,4,Low,Standard,1200.0,,3000.0,,1190.0,,3010.0,True,False,True,False,180000.0,,72000.0,1200.0,Not Graduated,28,Sunny,145,6,Afternoon,Employed
+33,NO,YES,2,2,NO,YES,1,High,Standard,,2990.0,,2990.0,,1200.0,3000.0,True,False,True,False,179990.0,180000.0,,1200.0,University,45,Sunny,118,3,Afternoon,Employed
+34,NO,YES,1,3,NO,YES,3,High,Standard,,3000.0,3000.0,,1210.0,,3000.0,False,True,False,True,180010.0,180000.0,,1200.0,University,42,Not Sunny,74,11,Evening,Unemployed
+35,NO,YES,2,1,YES,NO,3,High,Standard,,2990.0,,3000.0,,1190.0,1210.0,True,True,False,False,180010.0,,72010.0,1210.0,University,67,Not Sunny,95,2,Evening,Unemployed
+36,YES,NO,2,1,NO,YES,3,High,Standard,1210.0,,,3000.0,,1210.0,1200.0,True,True,False,False,180000.0,180000.0,,1200.0,High School,40,Sunny,154,12,Afternoon,Employed
+37,YES,NO,1,3,NO,YES,1,High,Standard,1190.0,,3000.0,,1200.0,,3000.0,False,True,False,True,180010.0,180000.0,,1200.0,Not Graduated,48,Not Sunny,80,1,Night,Unemployed
+38,NO,YES,2,1,YES,NO,2,Low,Standard,,3000.0,,3000.0,,1200.0,1200.0,True,True,False,False,180000.0,,72000.0,1200.0,College,47,Sunny,54,6,Evening,Employed
+39,YES,NO,2,3,NO,YES,4,Low,Standard,1200.0,,,3010.0,,1200.0,3010.0,False,True,False,True,180000.0,180000.0,,1200.0,High School,59,Sunny,141,12,Morning,Employed
+40,YES,NO,1,1,NO,YES,3,High,Standard,1200.0,,2990.0,,1200.0,,1200.0,True,True,False,False,179990.0,180000.0,,1200.0,Not Graduated,52,Not Sunny,45,5,Morning,Unemployed
+41,YES,NO,2,2,NO,YES,1,High,Standard,1200.0,,,3010.0,,1210.0,3000.0,True,False,True,False,180010.0,180000.0,,1210.0,High School,24,Not Sunny,79,14,Morning,Unemployed
+42,YES,NO,2,2,YES,NO,4,Low,Standard,1190.0,,,3000.0,,1200.0,3000.0,True,False,True,False,179990.0,,72000.0,1200.0,Not Graduated,33,Not Sunny,168,14,Morning,Unemployed
+43,NO,YES,2,2,NO,YES,1,High,Standard,,3010.0,,2990.0,,1200.0,3010.0,True,False,True,False,179990.0,180000.0,,1200.0,University,43,Not Sunny,28,11,Morning,Unemployed
+44,YES,NO,1,3,YES,NO,3,High,Standard,1190.0,,3000.0,,1210.0,,3000.0,False,True,False,True,180010.0,,72010.0,1200.0,High School,65,Not Sunny,198,9,Morning,Unemployed
+45,NO,YES,2,2,YES,NO,1,High,Standard,,3000.0,,3010.0,,1210.0,3000.0,True,False,True,False,180010.0,,72000.0,1190.0,College,69,Not Sunny,117,1,Afternoon,Unemployed
+46,YES,NO,1,3,YES,NO,4,Low,Standard,1200.0,,3000.0,,1200.0,,3000.0,False,True,False,True,180010.0,,72000.0,1200.0,High School,66,Sunny,191,7,Morning,Employed
+47,NO,YES,1,2,YES,NO,2,Low,Standard,,2990.0,2990.0,,1210.0,,3000.0,True,False,True,False,180000.0,,72000.0,1200.0,College,19,Not Sunny,176,5,Night,Unemployed
+48,NO,YES,2,3,NO,YES,2,Low,Standard,,3000.0,,3000.0,,1200.0,3010.0,False,True,False,True,180000.0,180000.0,,1200.0,College,18,Sunny,100,5,Morning,Employed
+49,YES,NO,1,4,NO,YES,1,High,Standard,1200.0,,3010.0,,1200.0,,6010.0,False,False,True,True,180000.0,180000.0,,1220.0,Not Graduated,65,Sunny,99,14,Evening,Employed
+50,NO,YES,1,3,NO,YES,2,Low,Standard,,3000.0,3000.0,,1210.0,,2990.0,False,True,False,True,180000.0,180010.0,,1200.0,University,29,Sunny,28,2,Afternoon,Employed
+51,NO,YES,2,1,YES,NO,4,Low,Standard,,3000.0,,3000.0,,1190.0,1200.0,True,True,False,False,180000.0,,72010.0,1200.0,University,22,Sunny,48,11,Night,Employed
+52,NO,YES,2,1,YES,NO,4,Low,Standard,,3000.0,,3000.0,,1200.0,1200.0,True,True,False,False,180000.0,,72010.0,1200.0,University,54,Not Sunny,135,3,Morning,Unemployed
+53,NO,YES,2,2,YES,NO,2,Low,Standard,,3000.0,,3000.0,,1200.0,3010.0,True,False,True,False,180000.0,,72000.0,1210.0,University,49,Not Sunny,182,7,Afternoon,Unemployed
+54,NO,YES,2,3,NO,YES,2,Low,Standard,,3000.0,,3000.0,,1190.0,2990.0,False,True,False,True,180000.0,180000.0,,1200.0,College,26,Not Sunny,150,6,Night,Unemployed
+55,NO,YES,1,1,YES,NO,3,High,Standard,,3010.0,3000.0,,1210.0,,1210.0,True,True,False,False,180000.0,,72000.0,1190.0,University,58,Sunny,135,12,Night,Employed
+56,YES,NO,1,2,NO,YES,4,Low,Standard,1200.0,,3000.0,,1200.0,,3010.0,True,False,True,False,179990.0,180000.0,,1200.0,Not Graduated,52,Sunny,67,2,Night,Employed
+57,YES,NO,1,3,NO,YES,3,High,Standard,1200.0,,3010.0,,1200.0,,3000.0,False,True,False,True,180000.0,180000.0,,1200.0,Not Graduated,36,Sunny,157,6,Afternoon,Employed
+58,YES,NO,2,2,YES,NO,2,Low,Standard,1200.0,,,3000.0,,1200.0,3010.0,True,False,True,False,180000.0,,72000.0,1210.0,Not Graduated,65,Sunny,70,2,Morning,Employed
+59,YES,NO,2,4,NO,YES,2,Low,Standard,1200.0,,,3000.0,,1210.0,6000.0,False,False,True,True,179990.0,180010.0,,1210.0,High School,33,Not Sunny,136,2,Evening,Unemployed
+60,YES,NO,2,1,YES,NO,3,High,Standard,1200.0,,,3000.0,,1190.0,1210.0,True,True,False,False,180000.0,,72000.0,1200.0,High School,20,Not Sunny,114,2,Night,Unemployed
+61,YES,NO,2,1,NO,YES,1,High,Standard,1200.0,,,3000.0,,1200.0,1200.0,True,True,False,False,180010.0,180000.0,,1210.0,High School,37,Not Sunny,176,14,Evening,Unemployed
+62,NO,YES,1,3,NO,YES,3,High,Standard,,3000.0,3000.0,,1200.0,,3000.0,False,True,False,True,180000.0,180000.0,,1200.0,University,41,Sunny,10,11,Evening,Employed
+63,YES,NO,1,2,YES,NO,2,Low,Standard,1210.0,,3000.0,,1210.0,,3000.0,True,False,True,False,179990.0,,72010.0,1200.0,High School,50,Not Sunny,140,3,Afternoon,Unemployed
+64,YES,NO,1,3,YES,NO,4,Low,Standard,1200.0,,3000.0,,1200.0,,2990.0,False,True,False,True,180000.0,,72000.0,1200.0,High School,41,Not Sunny,101,2,Night,Unemployed
+65,NO,YES,2,2,NO,YES,1,High,Standard,,2990.0,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,179990.0,,1200.0,College,69,Not Sunny,199,4,Morning,Unemployed
+66,YES,NO,1,1,NO,YES,3,High,Enhanced,1190.0,,3000.0,,1200.0,,1200.0,True,True,False,False,180000.0,179990.0,,2990.0,Not Graduated,28,Not Sunny,122,9,Afternoon,Unemployed
+67,NO,YES,2,4,YES,NO,2,Low,Standard,,3000.0,,3000.0,,1200.0,6010.0,False,False,True,True,180000.0,,72000.0,1200.0,University,66,Sunny,162,6,Afternoon,Employed
+68,YES,NO,1,4,NO,YES,3,High,Enhanced,1200.0,,3000.0,,1210.0,,6000.0,False,False,True,True,180000.0,180000.0,,3000.0,Not Graduated,25,Sunny,65,1,Evening,Employed
+69,NO,YES,1,3,NO,YES,1,High,Standard,,3000.0,3000.0,,1190.0,,3000.0,False,True,False,True,180000.0,180000.0,,1210.0,University,53,Sunny,170,8,Morning,Employed
+70,NO,YES,1,2,NO,YES,3,High,Enhanced,,3000.0,3000.0,,1190.0,,3000.0,True,False,True,False,180000.0,180000.0,,3000.0,University,55,Not Sunny,175,12,Morning,Unemployed
+71,YES,NO,2,3,YES,NO,3,High,Enhanced,1200.0,,,3000.0,,1200.0,3000.0,False,True,False,True,179990.0,,72000.0,3000.0,Not Graduated,57,Sunny,126,14,Evening,Employed
+72,YES,NO,2,2,NO,YES,3,High,Enhanced,1200.0,,,3010.0,,1200.0,3010.0,True,False,True,False,180000.0,180000.0,,3010.0,Not Graduated,37,Sunny,143,7,Afternoon,Employed
+73,NO,YES,1,1,NO,YES,3,High,Enhanced,,3000.0,3000.0,,1190.0,,1200.0,True,True,False,False,180000.0,180000.0,,3010.0,University,52,Sunny,67,10,Evening,Employed
+74,NO,YES,1,4,YES,NO,3,High,Enhanced,,3000.0,3000.0,,1200.0,,5990.0,False,False,True,True,179990.0,,71990.0,3000.0,College,65,Sunny,53,3,Morning,Employed
+75,NO,YES,2,1,YES,NO,4,Low,Standard,,3000.0,,2990.0,,1200.0,1200.0,True,True,False,False,180000.0,,72000.0,1200.0,College,42,Not Sunny,182,1,Afternoon,Unemployed
+76,NO,YES,1,4,NO,YES,2,Low,Standard,,3000.0,3000.0,,1200.0,,6000.0,False,False,True,True,180000.0,180000.0,,1200.0,University,52,Not Sunny,169,5,Evening,Unemployed
+77,YES,NO,2,2,YES,NO,4,Low,Standard,1210.0,,,3010.0,,1200.0,3000.0,True,False,True,False,180000.0,,72010.0,1200.0,Not Graduated,42,Sunny,182,13,Morning,Employed
+78,YES,NO,2,1,NO,YES,2,Low,Standard,1200.0,,,3010.0,,1200.0,1200.0,True,True,False,False,180000.0,180000.0,,1200.0,High School,46,Sunny,70,4,Afternoon,Employed
+79,YES,NO,1,3,YES,NO,1,High,Standard,1200.0,,3010.0,,1210.0,,3000.0,False,True,False,True,180010.0,,72000.0,1210.0,Not Graduated,35,Sunny,56,10,Morning,Employed
+80,NO,YES,1,4,YES,NO,1,High,Standard,,2990.0,3000.0,,1200.0,,6000.0,False,False,True,True,180000.0,,71990.0,1190.0,University,63,Sunny,158,8,Morning,Employed
+81,NO,YES,2,3,NO,YES,2,Low,Standard,,3000.0,,2990.0,,1200.0,2990.0,False,True,False,True,180000.0,180000.0,,1200.0,College,35,Sunny,89,1,Night,Employed
+82,YES,NO,1,4,YES,NO,4,Low,Enhanced,1200.0,,3000.0,,1210.0,,6000.0,False,False,True,True,180000.0,,72000.0,3000.0,High School,19,Sunny,127,10,Afternoon,Employed
+83,YES,NO,1,3,NO,YES,3,High,Enhanced,1200.0,,3000.0,,1190.0,,3000.0,False,True,False,True,180000.0,179990.0,,3000.0,Not Graduated,52,Sunny,173,1,Night,Employed
+84,YES,NO,2,3,YES,NO,4,Low,Enhanced,1210.0,,,3000.0,,1200.0,3000.0,False,True,False,True,180000.0,,72010.0,3000.0,High School,33,Not Sunny,156,12,Afternoon,Unemployed
+85,YES,NO,2,4,NO,YES,3,High,Enhanced,1200.0,,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,180000.0,,3000.0,High School,58,Not Sunny,29,4,Evening,Unemployed
+86,NO,YES,2,1,YES,NO,2,Low,Standard,,3000.0,,2990.0,,1200.0,1200.0,True,True,False,False,180000.0,,72000.0,1210.0,College,53,Sunny,194,8,Night,Employed
+87,NO,YES,2,2,YES,NO,1,High,Enhanced,,3000.0,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,,72000.0,3000.0,College,50,Sunny,155,5,Evening,Employed
+88,NO,YES,1,1,NO,YES,2,Low,Standard,,3010.0,3000.0,,1190.0,,1190.0,True,True,False,False,179990.0,180000.0,,1200.0,University,21,Not Sunny,56,2,Afternoon,Unemployed
+89,YES,NO,1,4,YES,NO,2,Low,Standard,1200.0,,3000.0,,1200.0,,6000.0,False,False,True,True,180010.0,,72000.0,1200.0,High School,50,Not Sunny,58,6,Afternoon,Unemployed
+90,YES,NO,2,4,NO,YES,1,High,Enhanced,1200.0,,,2990.0,,1200.0,5990.0,False,False,True,True,179990.0,179990.0,,3000.0,Not Graduated,31,Not Sunny,23,5,Afternoon,Unemployed
+91,NO,YES,2,1,YES,NO,1,High,Enhanced,,3000.0,,3010.0,,1200.0,1210.0,True,True,False,False,180000.0,,71990.0,3010.0,College,38,Not Sunny,152,2,Night,Unemployed
+92,NO,YES,1,3,NO,YES,3,High,Enhanced,,2990.0,3000.0,,1200.0,,3000.0,False,True,False,True,180000.0,180000.0,,2990.0,University,65,Sunny,168,13,Night,Employed
+93,NO,YES,2,4,YES,NO,3,High,Enhanced,,3000.0,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,,72010.0,3010.0,College,37,Sunny,10,14,Night,Employed
+94,NO,YES,1,1,NO,YES,4,Low,Enhanced,,3010.0,3000.0,,1200.0,,1210.0,True,True,False,False,180000.0,180010.0,,3010.0,University,25,Not Sunny,126,11,Morning,Unemployed
+95,YES,NO,1,3,YES,NO,4,Low,Enhanced,1200.0,,3000.0,,1190.0,,3010.0,False,True,False,True,180010.0,,72000.0,3000.0,High School,24,Sunny,63,11,Evening,Employed
+96,NO,YES,1,4,YES,NO,3,High,Enhanced,,3010.0,3010.0,,1200.0,,5990.0,False,False,True,True,180000.0,,72000.0,2990.0,College,20,Not Sunny,127,11,Night,Unemployed
+97,YES,NO,1,1,YES,NO,2,Low,Enhanced,1200.0,,3000.0,,1190.0,,1200.0,True,True,False,False,180000.0,,72010.0,3000.0,High School,34,Not Sunny,12,3,Morning,Unemployed
+98,YES,NO,1,3,YES,NO,3,High,Enhanced,1200.0,,3010.0,,1200.0,,2990.0,False,True,False,True,180000.0,,72000.0,3010.0,Not Graduated,50,Not Sunny,153,9,Morning,Unemployed
+99,YES,NO,1,2,NO,YES,4,Low,Enhanced,1200.0,,3000.0,,1200.0,,3000.0,True,False,True,False,180010.0,180010.0,,3000.0,Not Graduated,65,Sunny,194,7,Evening,Employed
+100,YES,NO,1,4,YES,NO,1,High,Enhanced,1200.0,,2990.0,,1200.0,,5990.0,False,False,True,True,179990.0,,72000.0,3000.0,Not Graduated,29,Not Sunny,21,7,Evening,Unemployed
+101,NO,YES,2,4,NO,YES,2,Low,Enhanced,,2990.0,,3010.0,,1200.0,6000.0,False,False,True,True,180000.0,180000.0,,3000.0,College,68,Sunny,83,11,Night,Employed
+102,YES,NO,2,4,YES,NO,4,Low,Enhanced,1200.0,,,3000.0,,1190.0,6000.0,False,False,True,True,180000.0,,72010.0,3000.0,High School,39,Not Sunny,25,6,Morning,Unemployed
+103,NO,YES,2,2,YES,NO,2,Low,Enhanced,,3000.0,,2990.0,,1200.0,3000.0,True,False,True,False,180000.0,,72000.0,3000.0,College,39,Not Sunny,111,8,Night,Unemployed
+104,NO,YES,2,4,NO,YES,3,High,Enhanced,,3010.0,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,180010.0,,3000.0,University,63,Sunny,161,4,Morning,Employed
+105,YES,NO,1,4,NO,YES,3,High,Enhanced,1210.0,,2990.0,,1200.0,,6000.0,False,False,True,True,180000.0,180000.0,,3000.0,Not Graduated,47,Not Sunny,165,8,Morning,Unemployed
+106,YES,NO,1,2,YES,NO,1,High,Enhanced,1200.0,,3010.0,,1190.0,,3010.0,True,False,True,False,180000.0,,72000.0,3000.0,High School,55,Not Sunny,126,4,Morning,Unemployed
+107,NO,YES,2,4,YES,NO,2,Low,Enhanced,,3000.0,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,,72000.0,3000.0,University,55,Sunny,17,8,Night,Employed
+108,YES,NO,1,1,YES,NO,2,Low,Enhanced,1210.0,,3000.0,,1200.0,,1200.0,True,True,False,False,180000.0,,72000.0,3010.0,Not Graduated,62,Sunny,131,9,Evening,Employed
+109,YES,NO,2,3,NO,YES,1,High,Enhanced,1200.0,,,2990.0,,1200.0,2990.0,False,True,False,True,180010.0,180000.0,,3000.0,Not Graduated,68,Sunny,101,3,Evening,Employed
+110,YES,NO,1,1,NO,YES,1,High,Enhanced,1200.0,,3000.0,,1200.0,,1200.0,True,True,False,False,180000.0,180000.0,,3010.0,High School,25,Sunny,173,3,Afternoon,Employed
+111,YES,NO,2,1,YES,NO,4,Low,Enhanced,1190.0,,,3000.0,,1190.0,1200.0,True,True,False,False,179990.0,,72010.0,3010.0,Not Graduated,44,Sunny,99,11,Night,Employed
+112,NO,YES,1,1,NO,YES,2,Low,Enhanced,,3000.0,3000.0,,1200.0,,1200.0,True,True,False,False,180000.0,180000.0,,3000.0,University,44,Not Sunny,145,13,Afternoon,Unemployed
+113,NO,YES,2,3,NO,YES,3,High,Enhanced,,3000.0,,3000.0,,1190.0,3000.0,False,True,False,True,180010.0,180000.0,,3000.0,University,51,Sunny,195,2,Night,Employed
+114,NO,YES,2,2,NO,YES,2,Low,Enhanced,,3000.0,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,180000.0,,3000.0,College,38,Sunny,69,13,Afternoon,Employed
+115,NO,YES,2,3,NO,YES,4,Low,Enhanced,,3000.0,,3000.0,,1200.0,3000.0,False,True,False,True,180010.0,180000.0,,3000.0,University,47,Not Sunny,187,10,Afternoon,Unemployed
+116,NO,YES,1,1,YES,NO,2,Low,Enhanced,,2980.0,2990.0,,1200.0,,1210.0,True,True,False,False,180010.0,,72000.0,3000.0,University,50,Sunny,37,3,Afternoon,Employed
+117,YES,NO,2,2,YES,NO,2,Low,Enhanced,1200.0,,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,,72000.0,3000.0,Not Graduated,45,Not Sunny,110,3,Afternoon,Unemployed
+118,NO,YES,2,3,YES,NO,4,Low,Enhanced,,2990.0,,3000.0,,1200.0,3000.0,False,True,False,True,180000.0,,72010.0,2990.0,University,64,Sunny,50,5,Evening,Employed
+119,NO,YES,2,4,YES,NO,4,Low,Enhanced,,3000.0,,3010.0,,1190.0,6000.0,False,False,True,True,180010.0,,72000.0,3010.0,College,50,Sunny,164,5,Evening,Employed
+120,NO,YES,2,2,NO,YES,1,High,Enhanced,,2990.0,,2990.0,,1200.0,2990.0,True,False,True,False,180000.0,180000.0,,3000.0,University,22,Not Sunny,154,2,Morning,Unemployed
+121,NO,YES,2,3,NO,YES,4,Low,Enhanced,,3010.0,,3000.0,,1190.0,3000.0,False,True,False,True,180000.0,180000.0,,3000.0,University,65,Not Sunny,170,12,Night,Unemployed
+122,YES,NO,1,4,YES,NO,2,Low,Enhanced,1200.0,,3010.0,,1200.0,,5990.0,False,False,True,True,180000.0,,72000.0,3000.0,High School,36,Not Sunny,166,10,Afternoon,Unemployed
+123,YES,NO,2,3,YES,NO,2,Low,Enhanced,1200.0,,,3000.0,,1200.0,3000.0,False,True,False,True,179990.0,,71990.0,3000.0,Not Graduated,21,Not Sunny,150,13,Evening,Unemployed
+124,YES,NO,2,1,YES,NO,1,High,Enhanced,1200.0,,,3000.0,,1200.0,1200.0,True,True,False,False,180000.0,,71990.0,3000.0,Not Graduated,52,Not Sunny,55,6,Night,Unemployed
+125,YES,NO,2,1,NO,YES,1,High,Enhanced,1200.0,,,3000.0,,1200.0,1200.0,True,True,False,False,179990.0,180010.0,,3000.0,High School,66,Sunny,44,5,Evening,Employed
+126,NO,YES,1,4,YES,NO,3,High,Enhanced,,2990.0,3000.0,,1200.0,,6010.0,False,False,True,True,180000.0,,72010.0,3000.0,University,34,Sunny,143,6,Morning,Employed
+127,NO,YES,1,1,NO,YES,2,Low,Enhanced,,3000.0,3000.0,,1200.0,,1190.0,True,True,False,False,180000.0,180000.0,,2990.0,University,61,Not Sunny,91,1,Night,Unemployed
+128,YES,NO,2,4,YES,NO,2,Low,Enhanced,1200.0,,,2990.0,,1200.0,6000.0,False,False,True,True,180000.0,,71990.0,3000.0,Not Graduated,45,Not Sunny,124,5,Evening,Unemployed
+129,NO,YES,2,3,YES,NO,3,High,Enhanced,,3000.0,,3000.0,,1210.0,2990.0,False,True,False,True,179990.0,,72000.0,3010.0,College,47,Not Sunny,56,9,Afternoon,Unemployed
+130,YES,NO,1,4,NO,YES,4,Low,Enhanced,1190.0,,3000.0,,1190.0,,6000.0,False,False,True,True,180000.0,179990.0,,2990.0,High School,46,Sunny,162,12,Morning,Employed
+131,YES,NO,2,4,NO,YES,1,High,Enhanced,1200.0,,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,179990.0,,3000.0,Not Graduated,63,Sunny,19,10,Night,Employed
+132,YES,NO,1,4,YES,NO,3,High,Enhanced,1200.0,,3000.0,,1200.0,,6000.0,False,False,True,True,179990.0,,72000.0,3000.0,Not Graduated,23,Not Sunny,65,14,Evening,Unemployed
+133,YES,NO,1,2,NO,YES,1,High,Enhanced,1200.0,,3000.0,,1190.0,,3000.0,True,False,True,False,180000.0,180000.0,,3000.0,High School,52,Sunny,39,2,Evening,Employed
+134,NO,YES,1,4,NO,YES,4,Low,Enhanced,,3010.0,3000.0,,1210.0,,5990.0,False,False,True,True,180010.0,179990.0,,3000.0,University,58,Not Sunny,118,1,Night,Unemployed
+135,YES,NO,1,2,NO,YES,3,High,Enhanced,1190.0,,3000.0,,1200.0,,3000.0,True,False,True,False,179990.0,180000.0,,3000.0,High School,54,Not Sunny,14,14,Night,Unemployed
+136,NO,YES,2,2,YES,NO,4,Low,Enhanced,,2990.0,,3000.0,,1200.0,3010.0,True,False,True,False,180010.0,,72000.0,3000.0,College,41,Sunny,128,10,Morning,Employed
+137,NO,YES,1,3,NO,YES,1,High,Enhanced,,3010.0,3010.0,,1200.0,,3010.0,False,True,False,True,180000.0,179990.0,,3010.0,College,46,Not Sunny,42,13,Afternoon,Unemployed
+138,YES,NO,2,4,YES,NO,1,High,Enhanced,1200.0,,,3010.0,,1190.0,6000.0,False,False,True,True,180000.0,,72000.0,3000.0,High School,66,Not Sunny,127,11,Morning,Unemployed
+139,NO,YES,2,4,NO,YES,2,Low,Enhanced,,3000.0,,3000.0,,1200.0,6000.0,False,False,True,True,180000.0,179990.0,,3000.0,University,63,Sunny,74,9,Evening,Employed
+140,NO,YES,2,4,YES,NO,2,Low,Enhanced,,3000.0,,2990.0,,1210.0,5990.0,False,False,True,True,180000.0,,72000.0,3000.0,University,48,Not Sunny,155,10,Morning,Unemployed
+141,YES,NO,2,2,YES,NO,1,High,Enhanced,1200.0,,,2990.0,,1190.0,3000.0,True,False,True,False,180000.0,,72000.0,3010.0,High School,52,Not Sunny,186,9,Evening,Unemployed
+142,YES,NO,1,2,YES,NO,4,Low,Enhanced,1200.0,,3010.0,,1200.0,,3000.0,True,False,True,False,180000.0,,72000.0,3000.0,High School,50,Not Sunny,20,9,Night,Unemployed
+143,YES,NO,2,3,NO,YES,1,High,Enhanced,1200.0,,,3000.0,,1200.0,3000.0,False,True,False,True,180000.0,180000.0,,3000.0,High School,69,Sunny,94,6,Night,Employed
+144,YES,NO,2,1,YES,NO,2,Low,Enhanced,1200.0,,,2990.0,,1200.0,1200.0,True,True,False,False,180000.0,,72000.0,3010.0,High School,38,Not Sunny,35,8,Afternoon,Unemployed
+145,YES,NO,1,1,NO,YES,4,Low,Enhanced,1190.0,,3010.0,,1200.0,,1200.0,True,True,False,False,179990.0,180000.0,,3000.0,Not Graduated,49,Sunny,72,14,Night,Employed
+146,NO,YES,2,2,NO,YES,2,Low,Enhanced,,3000.0,,3010.0,,1200.0,3000.0,True,False,True,False,180000.0,180000.0,,2990.0,College,40,Sunny,95,11,Morning,Employed
+147,NO,YES,2,2,YES,NO,4,Low,Enhanced,,3000.0,,2990.0,,1200.0,3010.0,True,False,True,False,180000.0,,72000.0,3000.0,College,50,Not Sunny,68,13,Night,Unemployed
+148,YES,NO,2,2,NO,YES,1,High,Enhanced,1200.0,,,3010.0,,1200.0,3000.0,True,False,True,False,180000.0,179990.0,,3000.0,Not Graduated,20,Sunny,36,1,Morning,Employed
+149,YES,NO,2,1,YES,NO,2,Low,Enhanced,1200.0,,,3000.0,,1200.0,1210.0,True,True,False,False,180010.0,,72010.0,3000.0,High School,35,Sunny,186,10,Afternoon,Employed
+150,NO,YES,2,1,NO,YES,1,High,Enhanced,,3000.0,,3000.0,,1200.0,1200.0,True,True,False,False,180010.0,180000.0,,3000.0,University,42,Not Sunny,170,4,Night,Unemployed
+151,YES,NO,1,1,YES,NO,1,High,Enhanced,1210.0,,3000.0,,1200.0,,1200.0,True,True,False,False,180000.0,,72000.0,3000.0,Not Graduated,59,Not Sunny,107,1,Morning,Unemployed
+152,YES,NO,2,4,NO,YES,4,Low,Enhanced,1210.0,,,3000.0,,1210.0,6000.0,False,False,True,True,179990.0,180000.0,,3000.0,Not Graduated,48,Not Sunny,114,8,Morning,Unemployed
+153,YES,NO,2,2,NO,YES,1,High,Enhanced,1190.0,,,3000.0,,1200.0,3000.0,True,False,True,False,180000.0,179990.0,,3000.0,High School,20,Not Sunny,108,1,Evening,Unemployed
+154,NO,YES,1,2,NO,YES,3,High,Enhanced,,3000.0,3000.0,,1200.0,,3000.0,True,False,True,False,180010.0,180000.0,,3000.0,University,57,Sunny,138,3,Evening,Employed
+155,YES,NO,1,3,NO,YES,2,Low,Enhanced,1200.0,,3000.0,,1200.0,,3010.0,False,True,False,True,180000.0,180000.0,,3000.0,Not Graduated,63,Sunny,158,13,Evening,Employed
+156,NO,YES,1,1,YES,NO,2,Low,Enhanced,,3000.0,3000.0,,1200.0,,1200.0,True,True,False,False,180010.0,,72000.0,3000.0,College,41,Sunny,64,4,Evening,Employed
+157,NO,YES,2,4,NO,YES,4,Low,Enhanced,,3000.0,,3000.0,,1200.0,6010.0,False,False,True,True,180000.0,180000.0,,3000.0,University,67,Not Sunny,15,8,Evening,Unemployed
+158,YES,NO,2,4,NO,YES,1,High,Enhanced,1200.0,,,3010.0,,1200.0,6000.0,False,False,True,True,180000.0,180000.0,,3000.0,Not Graduated,49,Not Sunny,104,6,Afternoon,Unemployed
+159,NO,YES,1,1,NO,YES,3,High,Enhanced,,3000.0,3010.0,,1200.0,,1210.0,True,True,False,False,180000.0,180000.0,,3010.0,College,64,Not Sunny,142,14,Afternoon,Unemployed
